@@ -10,7 +10,7 @@
     </parent>
     <groupId>dev.yambay</groupId>
     <artifactId>spring-sandbox</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>spring-sandbox</name>
     <description>spring-sandbox</description>
     <properties>
